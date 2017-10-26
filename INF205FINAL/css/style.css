@@ -290,7 +290,7 @@ body {
 	width: 460px;
 }
 #body div .section div {
-	background: #519194;
+	background: #5fb3bd;
 	border: 5px solid #5fb3bd;
 	border-radius: 4px;
 	float: none;
@@ -479,7 +479,7 @@ body {
 	text-decoration: underline;
 }
 #body .content p a:hover {
-	color: #252525;
+	color: #5fb3bd;
 }
 #body .sidebar {
 	background: url(../images/bg-sidebar.jpg) repeat-y top left;

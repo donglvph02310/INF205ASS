@@ -14,7 +14,7 @@
 	src: url('../fonts/Comfortaa/Comfortaa-Regular.woff') format('woff'), url('../fonts/Comfortaa/Comfortaa-Regular.ttf') format('truetype'), url('../fonts/Comfortaa/Comfortaa-Regular.svg') format('svg');
 }
 html {
-    background-color: #e2e2e2;
+    background-color: #97d0d3;
     margin: 0;
     padding: 0;
 }
@@ -118,7 +118,7 @@ h5, h6 {
 }
 
     .main-content {
-        background: url("../Images/accent.png") no-repeat;
+        background-color: #a6dbed;;
         padding-left: 10px;
         padding-top: 30px;
     }
